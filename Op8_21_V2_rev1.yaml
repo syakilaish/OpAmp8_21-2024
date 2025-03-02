@@ -1,0 +1,5 @@
+---
+target: Op8_21_V2_rev1
+reference: lvs_work/Op8_21_V2_rev1_reference.cir.txt
+netlist: C:/Users/seiji/Seafile/LSI開発/PTS06_2024_8/Op8_21/op8_21_tb_direct.net
+schematic: C:/Users/seiji/Seafile/LSI開発/PTS06_2024_8/Op8_21/op8_21_tb_direct.asc
